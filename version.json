@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "download_url": "https://whitepeakcreative.gumroad.com/l/overcomp",
   "changelog": "• Added dB grid lines to waveform display\n• Added parameter value editing (right-click → Edit Value)\n• Added show/hide parameter values (right-click)\n• Added waveform zoom controls (+ and - buttons)\n• Added waveform history length setting (Short/Medium/Long/Extra Long)"
 }
